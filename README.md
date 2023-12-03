@@ -77,11 +77,8 @@ An Arduino board works by taking in information (inputs) and reacting to it (out
 When you start a new sketch, you'll see a few pieces of code. An Arduino script typically includes:
 
 1. Setup: A function that runs once at the start. Used for initializing settings.
-
 2. Loop: A function that runs continuously. This is where most of your code will go.
-
 3. Comments: Lines starting with //, used to describe what the code does.
-
 4. Functions: Blocks of code that perform specific tasks.
 
 ## 3. Basic Data Types, Functions, Software
@@ -89,15 +86,10 @@ When you start a new sketch, you'll see a few pieces of code. An Arduino script 
 ### Basic Data Types in Arduino
 
 1. int - Represents integer values. It's used for numbers without a decimal point. For example, int count = 10;
-
 2. float - For floating-point numbers, or numbers with a decimal. Useful for more precise measurements like float temperature = 36.5;
-
 3. char - Stands for 'character' and is used to store single characters like letters or symbols. For instance, char letter = 'A';
-
 4. String - Used for storing a sequence of characters or text. For example, String name = "Arduino";
-
 5. boolean - Represents true or false values, often used in conditional statements. For example, boolean isOn = true;
-
 6. byte - Represents true or false values, often used in conditional statements. For example, boolean isOn = true;
 
 ### Functions
