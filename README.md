@@ -6,7 +6,7 @@ The purpose of this repository is to teach new users of the Houston Robotics Gro
 
 ## 1. What is Arduino?
 
-Arduino is a popular open-source electronics platform based on easy-to-use hardware and software. An Arduino board is a microcontroller, which essentially is a small, programmable computer dedicated to running one specific task at a time.
+Arduino is a popular open-source electronics platform based on easy-to-use hardware and software. An Arduino board is a microcontroller, which is a small, programmable computer dedicated to running one specific task at a time.
 
 ## 2. How to Download the Arduino IDE
 
@@ -62,23 +62,11 @@ At its heart, an Arduino board is a microcontroller, which is essentially a smal
 
 ### Inputs, further explained
 
-Think of inputs as the information or signals that the Arduino gets from the outside world. It's like how we use our senses to understand what's happening around us. Here are examples of what it listens to:
-
-    1. Sensors: These are like the Arduino's senses. They can pick up on things like how warm or cold it is (temperature), whether it's bright or dark (light), if something is pressing against them (pressure), or if something is moving nearby (motion).
-
-    2. Buttons and Switches: These are like simple commands. When you press a button or flip a switch, it tells the Arduino to start or stop doing something.
-
-    3. Communication from Other Devices: The Arduino can also get info from other gadgets like computers, smartphones, or even other Arduino boards. It's like receiving a text message telling it what to do.
+Think of inputs as the information or signals that the Arduino gets from the outside world. It's like how we use our senses to understand what's happening around us. Here are examples of what it listens to: 1. Sensors: These are like the Arduino's senses. They can pick up on things like how warm or cold it is (temperature), whether it's bright or dark (light), if something is pressing against them (pressure), or if something is moving nearby (motion). 2. Buttons and Switches: These are like simple commands. When you press a button or flip a switch, it tells the Arduino to start or stop doing something. 3. Communication from Other Devices: The Arduino can also get info from other gadgets like computers, smartphones, or even other Arduino boards. It's like receiving a text message telling it what to do.
 
 ### Outputs, further explained
 
-Outputs are all about how the Arduino responds to what it hears. It's like how we talk or act in response to what we hear or see. Here are the ways it can react:
-
-    1. Activating an LED: This is like the Arduino saying, "Got it!" with a light signal. Turning an LED on or off is a simple way for it to show a response.
-
-    2. Driving Motors: This is when the Arduino gets active. It can make things move, like spinning a motor to drive a wheel or move an arm.
-
-    3. Sending Data: Sometimes, the Arduino's response is to send a message back. It can send data to other devices or even post something online.
+Outputs are all about how the Arduino responds to what it hears. It's like how we talk or act in response to what we hear or see. Here are the ways it can react: 1. Activating an LED: This is like the Arduino saying, "Got it!" with a light signal. Turning an LED on or off is a simple way for it to show a response. 2. Driving Motors: This is when the Arduino gets active. It can make things move, like spinning a motor to drive a wheel or move an arm. 3. Sending Data: Sometimes, the Arduino's response is to send a message back. It can send data to other devices or even post something online.
 
 ### Input/Output Summary
 
