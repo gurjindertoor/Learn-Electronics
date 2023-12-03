@@ -54,7 +54,10 @@ Remember, a lot of working with electronics and software involves research and p
 
 ### Summary
 
-Voila! You've now: 1. downloaded the Arduino IDE 2. created your first sketch 3. connected and set up the Arduino board to recieve code
+Voila! You've now: 
+1. downloaded the Arduino IDE
+2. created your first sketch
+3. connected and set up the Arduino board to recieve code
 
 ## Lesson 1: Arduino Board/Software Basics
 
@@ -102,7 +105,11 @@ Every block of code in the Arduino IDE needs to end with a semi-colon (;), other
 
 ### Summary:
 
-You've now learned: 1. Arduino board receives inputs/outputs 2. the different parts of an Arduino sketch/program 3. the basic data types used in the Arduino programming language 4. what functions are
+You've now learned: 
+1. Arduino board receives inputs/outputs
+2. the different parts of an Arduino sketch/program
+3. the basic data types used in the Arduino programming language
+4. what functions are
 
 Next you'll apply all of these skills and create your first program!
 
@@ -198,4 +205,8 @@ If the built-in LED on the Arduino board is turning on then pausing for one seco
 
 ### Summary
 
-You've created your first program/project! You learned how to: 1. define variables in the Arduino IDE 2. learned of function parameters/arguments 3. used built-in functions that Arduino provides 4. how to verify and upload your code from the Arduino IDE to the Arduino board
+You've created your first program/project! You learned how to: 
+1. define variables in the Arduino IDE
+2. learned of function parameters/arguments
+3. used built-in functions that Arduino provides
+4. how to verify and upload your code from the Arduino IDE to the Arduino board
