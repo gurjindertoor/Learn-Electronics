@@ -132,14 +132,68 @@ This section will cover the necessary information for you to create the program 
 
 ### Built-in functions required for this program/project
 
+Below are 3 functions required for the 'Blink' program.
+
+Notice that if the function has more than one word there isn't a space separating the two but instead the second word (and if the function had a subsequent third, fourth, etc. word) is capitalized. This is known as camelCase and is used to describe variable names and functions alike, so be sure to use camelCase when you define variables or functions, etc.
+
+Next, the function after its name has a set of parenthesis, inside the parenthesis you'll provide arguments, these are the specific details that are provided to the function. Think of the arguments as an input that is used by the function and the output is based on the information provided by the input. Before providing the argument, a placeholder typically exists in the form of what's called a parameter. The pinMode(); function has 2 parameters therefore requires 2 arguments, the digitalWrite(); function also has 2 parameters therefore requiring 2 arguments, and the delay(); function only has 1 parameter therefore requiring 1 argument. If a function requires more than 1 argument, you separate the argument by a comma. (More on that below).
+
+Built-in functions can be found here:
+
 ```
 pinMode();
-```
-
-```
 digitalWrite();
+delay();
 ```
 
+1. pinMode(); is a function that configures a specific pin to behave either as an input or an output. It has 2 parameters/arguments - the first is the pin and the second is the mode. The mode will be in all caps and either INPUT, OUTPUT, or INPUT_PULLUP.
+   1. INPUT - sets the pin as an input which makes it possible to read data from a sensor
+   2. OUTPUT - sets the pin as an output, allows you to provide power to components like LEDS
+   3. INPUT_PULLUP - similar to INPUT but also enables an internal pull-up resistor which is useful for buttons or switches
+
+An example:
+
 ```
-delay();
+    pinMode(1, INPUT_PULLUP)
+```
+
+_Hint_ The above is an example where 2 arguments are provided, you'll need to use the example to figure out how to write the code for the built-in LED at pin 13 and select the appropriate mode.
+
+2. digitalWrite(); is a function used to write a HIGH or LOW value to a digital pin. If the pin has been configured as an OUTPUT with pinMode(); you can control a component. HIGH will give power to the value while LOW will not.
+
+An example:
+
+```
+    digitalWrite(1, HIGH);
+```
+
+3. delay(); is a function that pauses the program for a specified number of milliseconds, during the delay, no other code runs.
+
+An example:
+
+```
+    delay(5000);
+```
+
+The above delay function pauses for 5 seconds.
+
+### Putting it all together
+
+Now, you have all the information required to create your own program. You'll need to:
+
+1. Define an integar variable assigned to a numeric value where the numeric value is the pin for the built-in LED
+2. Use the 3 functions provided above - you'll use one of the three in the setup function:
+
+```
+    void setup() {
+        //one of the three variables will go here
+    }
+```
+
+3. Use the other 2 functions provided in the loop function:
+
+```
+    void loop() {
+        //use the other two variables here
+    }
 ```
