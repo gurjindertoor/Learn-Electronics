@@ -2,7 +2,9 @@
 
 ## 1. What is Arduino?
 
-Arduino is a popular open-source electronics platform based on easy-to-use hardware and software. An Arduino board is a microcontroller, which is a small, programmable computer dedicated to running one specific task at a time.
+Arduino is a popular open-source electronics platform based on easy-to-use hardware and software. 
+
+An Arduino board is a microcontroller, which is a small, programmable computer dedicated to running one specific task at a time.
 
 ## 2. How to Download the Arduino IDE
 
@@ -14,13 +16,13 @@ An IDE is a software application where you can write, edit, and test your progra
 
 The Arduino IDE is the main software used to program an Arduino. You'll be able to send your code to the Arduino board via the Arduino IDE. To download it:
 
-1. Visit the official Arduino website: [arduino.cc](https://www.arduino.cc)
-2. Navigate to the Software section.
-3. Download the version compatible with your operating system (Windows, macOS, or Linux).
+1. visit the official Arduino website: [arduino.cc](https://www.arduino.cc)
+2. navigate to the Software section
+3. download the version compatible with your operating system (Windows, macOS, or Linux)
 
 ## 3. Programming Language Used by Arduino
 
-Arduino uses a programming language based on C/C++. It's simplified and has many built-in functions to easily control the hardware.
+Arduino uses a programming language based on C/C++. It's a simplified programming language with many built-in functions to easily control the hardware. A function is a reusable piece of code that has a specific task.
 
 If you don't have any programming experience or have never programmed in C/C++, don't worry! You'll get a quick crash course that'll set you up to start creating your own projects further into the tutorial!
 
@@ -34,19 +36,19 @@ Once the Arduino IDE is downloaded, in order to set up an Arduino script, do the
 
 ## 5. Connecting Arduino to Your Computer and the IDE
 
-1. Connect the Arduino board to your computer using a USB cable.
-2. Open the Arduino IDE.
-3. Go to Tools > Board and select your Arduino model.
-4. Go to Tools > Port and select the port that your Arduino is connected to.
+1. connect the Arduino board to your computer using a USB cable
+2. open the Arduino IDE
+3. go to Tools > Board and select your Arduino model
+4. go to Tools > Port and select the port that your Arduino is connected to
 
 ### 6. Research Skills and Troubleshooting
 
-Remember, a lot of working with electronics and software involves research and problem-solving skills. If you're stuck:
+Remember, a lot of working with hardware and software involves research and problem-solving skills. If you're stuck:
 
-1. Ask clear, specific questions.
-2. Use search engines to find solutions.
-3. Visit forums and communities like Stack Overflow or the Arduino forums.
-4. Experiment and learn from trial and error.
+1. ask clear, specific questions - if you can ask a question in plain language you'll have an easier time researching
+2. use search engines to find solutions
+3. visit forums and communities like Stack Overflow or the Arduino forums
+4. experiment and learn from trial and error
 
 ### Summary
 
