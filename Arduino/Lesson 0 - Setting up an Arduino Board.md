@@ -30,9 +30,9 @@ If you don't have any programming experience or have never programmed in C/C++, 
 
 Once the Arduino IDE is downloaded, in order to set up an Arduino script, do the following:
 
-1. Open the Arduino IDE.
-2. Start a new sketch (a sketch is an Arduino program).
-3. Write or paste your code into the IDE.
+1. open the Arduino IDE
+2. start a new sketch (a sketch is an Arduino program)
+3. write or paste your code into the IDE
 
 ## 5. Connecting Arduino to Your Computer and the IDE
 
