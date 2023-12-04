@@ -14,7 +14,7 @@ An IDE is a software application where you can write, edit, and test your progra
 
 The Arduino IDE is the main software used to program an Arduino. You'll be able to send your code to the Arduino board via the Arduino IDE. To download it:
 
-1. Visit the official Arduino website: arduino.cc
+1. Visit the official Arduino website: [arduino.cc]
 2. Navigate to the Software section.
 3. Download the version compatible with your operating system (Windows, macOS, or Linux).
 
@@ -50,4 +50,7 @@ Remember, a lot of working with electronics and software involves research and p
 
 ### Summary
 
-Voila! You've now: 1. downloaded the Arduino IDE 2. created your first sketch 3. connected and set up the Arduino board to recieve code
+Voila! You've now: 
+1. downloaded the Arduino IDE
+2. created your first sketch
+3. connected and set up the Arduino board to recieve code
