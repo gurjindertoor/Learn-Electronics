@@ -92,4 +92,8 @@ If the built-in LED on the Arduino board is turning on then pausing for one seco
 
 ### Summary
 
-You've created your first program/project! You learned how to: 1. define variables in the Arduino IDE 2. learned of function parameters/arguments 3. used built-in functions that Arduino provides 4. how to verify and upload your code from the Arduino IDE to the Arduino board
+You've created your first program/project! You learned how to: 
+1. define variables in the Arduino IDE
+2. learned of function parameters/arguments
+3. used built-in functions that Arduino provides
+4. how to verify and upload your code from the Arduino IDE to the Arduino board
