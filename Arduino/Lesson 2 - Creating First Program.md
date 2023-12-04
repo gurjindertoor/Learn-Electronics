@@ -16,7 +16,7 @@ Notice that if the function has more than one word there isn't a space separatin
 
 Next, the function after its name has a set of parenthesis, inside the parenthesis you'll provide arguments, these are the specific details that are provided to the function. Think of the arguments as an input that is used by the function and the output is based on the information provided by the input. Before providing the argument, a placeholder typically exists in the form of what's called a parameter. The pinMode(); function has 2 parameters therefore requires 2 arguments, the digitalWrite(); function also has 2 parameters therefore requiring 2 arguments, and the delay(); function only has 1 parameter therefore requiring 1 argument. If a function requires more than 1 argument, you separate the argument by a comma. (More on that below).
 
-Built-in functions can be found here:
+Built-in functions can be found here: [Built-in Functions Reference](https://www.arduino.cc/reference/en/)
 
 ```
 pinMode();
