@@ -44,6 +44,10 @@ Every block of code in the Arduino IDE needs to end with a semi-colon (;), other
 
 ### Summary:
 
-You've now learned: 1. Arduino board receives inputs/outputs 2. the different parts of an Arduino sketch/program 3. the basic data types used in the Arduino programming language 4. what functions are
+You've now learned: 
+1. Arduino board receives inputs/outputs
+2. the different parts of an Arduino sketch/program
+3. the basic data types used in the Arduino programming language
+4. what functions are
 
 Next you'll apply all of these skills and create your first program!
