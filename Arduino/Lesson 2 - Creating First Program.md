@@ -4,6 +4,8 @@ The 'Blink' program is typically the first program/project that new users of Ard
 
 In Arduino, a pin is often controlled by assigning it to a variable. Keep this in mind as you create this project.
 
+![Arduino-Board-LED](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/9a310029-43a7-46ba-b5d0-814656ee53ab)
+
 This section will cover the necessary information for you to create the program by giving you enough information to do it yourself without giving you the answer outward, but if you get stuck there will be a list of instructions at the end of the section. However, feel free to ask for help or practice your research skills if you run into any problems.
 
 ### Built-in functions required for this program/project
