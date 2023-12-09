@@ -1,5 +1,7 @@
 # Resistors
 
+![resistors](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/95f38ac5-3386-4813-8ffd-05f3653f5716)
+
 ## Function:
 
 Resistors limit or control the flow of electrical current in a circuit.
