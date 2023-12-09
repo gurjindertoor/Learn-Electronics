@@ -1,4 +1,4 @@
-# Optional Tools for Advanced Beginners/As you develop your skills
+# Optional Tools for Advanced Individuals
 
 1. Oscilloscope: For advanced signal analysis and troubleshooting.
 
