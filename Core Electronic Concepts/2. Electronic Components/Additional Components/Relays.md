@@ -1,5 +1,7 @@
 # Relays
 
+![relays](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/93334d4e-73ed-4f02-944f-8838e4648922)
+
 ## What is it?
 
 A relay is an electrically operated switch.
