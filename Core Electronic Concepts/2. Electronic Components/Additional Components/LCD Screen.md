@@ -1,5 +1,7 @@
 # Liquid Crystal Display (LCD)
 
+![lcd screen](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/38f3dd11-dd5f-40f9-866c-babf6ec8eba7)
+
 ## What is it?
 
 An LCD is a flat panel that displays numbers, letters, and other symbols.

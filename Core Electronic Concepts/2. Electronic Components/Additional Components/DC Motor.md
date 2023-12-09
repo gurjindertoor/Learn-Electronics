@@ -1,5 +1,7 @@
 # DC Motor
 
+![dc motor](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/21167d14-ebdf-432b-9168-688ac1ee4172)
+
 ## What is it?
 
 A DC motor is a small motor that runs on direct current (DC) electricity.

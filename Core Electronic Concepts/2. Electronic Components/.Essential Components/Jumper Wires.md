@@ -1,5 +1,7 @@
 # Jumper Wires
 
+![jumper wires](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/3508a38b-3eaf-4f33-9b9b-892240217917)
+
 ## What are they?
 
 Jumper wires are small wires or cables used in electronics for making temporary connections between components, especially during the prototyping and testing phases. They are fundamental in the process of building and experimenting with electronic circuits.

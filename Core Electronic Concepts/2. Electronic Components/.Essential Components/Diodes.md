@@ -1,5 +1,7 @@
 # Diodes
 
+![diodes](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/286399f6-fa28-42bc-bd7d-32662a06f744)
+
 ## What is it?
 
 A diode is a component that only lets electricity flow in one direction.

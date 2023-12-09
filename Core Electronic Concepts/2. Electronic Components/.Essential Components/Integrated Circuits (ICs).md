@@ -1,5 +1,7 @@
 # Integrated Circuits (ICs)
 
+![integrated circuits](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/46014435-d39b-4708-82ec-ea99abb42959)
+
 ## What is it?
 
 Integrated circuits (ICs) are compact electronic devices that contain a large number of tiny electronic components such as transistors, resistors, capacitors, and diodes, all fabricated into a small chip, typically made of silicon. They are fundamental to modern electronics, performing a wide range of functions in various electronic systems.

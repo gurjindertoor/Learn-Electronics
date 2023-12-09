@@ -1,5 +1,7 @@
 # Pushbuttons
 
+![pushbuttons](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/84818bc9-346e-4579-a04a-eff428b1f3f9)
+
 ## What is it?
 
 A pushbutton is a switch that you can press to start or stop the flow of electricity.

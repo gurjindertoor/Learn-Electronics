@@ -1,5 +1,7 @@
 # Transistors
 
+![transistors](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/d135ed00-9f7c-4f26-9514-a6058e0b00d1)
+
 ## What is it?
 
 A transistor is a tiny switch that controls the flow of electricity.

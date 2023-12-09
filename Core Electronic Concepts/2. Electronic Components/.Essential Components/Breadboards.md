@@ -1,5 +1,7 @@
 # Breadboard
 
+![breadboard](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/2cf188bb-a754-4a17-9940-d2c0c5c9a999)
+
 ## What is it?
 
 A breadboard is a rectangular plastic board with a bunch of tiny holes in it. These holes let you easily insert and connect electronic components without soldering.

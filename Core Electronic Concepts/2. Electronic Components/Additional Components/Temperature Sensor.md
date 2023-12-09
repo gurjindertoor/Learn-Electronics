@@ -1,5 +1,7 @@
 # Temperature Sensor
 
+![temperature sensor](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/f2938583-b57a-4705-ba94-2f5ab41bca70)
+
 ## What is it?
 
 A temperature sensor detects the temperature of its environment.

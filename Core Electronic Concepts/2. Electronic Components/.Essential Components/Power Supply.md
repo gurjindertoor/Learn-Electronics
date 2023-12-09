@@ -1,5 +1,7 @@
 # Power Supply
 
+![power supply](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/07d2af90-4bda-4e03-83de-daabca5598ef)
+
 ## What is it?
 
 A power supply is an electronic device that supplies electric energy to an electrical load. It converts power from a source, like an electrical power grid or batteries, into the correct voltage, current, and frequency to power the load.
