@@ -1,6 +1,6 @@
 # Power Supply
 
-![power supply](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/99762f42-d55d-48e5-8d0a-260bbad9a78f)
+![power supply](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/07d2af90-4bda-4e03-83de-daabca5598ef)
 
 ## What is it?
 
