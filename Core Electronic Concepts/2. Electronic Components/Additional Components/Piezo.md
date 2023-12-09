@@ -1,5 +1,7 @@
 # Piezo
 
+![piezo](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/ffacc940-f078-47ca-8942-62fcd5f1a16c)
+
 ## What is it?
 
 A piezo is a small electronic device that can either make sounds or detect vibrations.
