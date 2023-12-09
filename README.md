@@ -1,10 +1,11 @@
-# Learn-Electronics
+# Learn Electronics
 
-The purpose of this repository is to teach new users of the Houston Robotics Group the basics of electronics. This will be a repository that's continually updated to provide more lessons/concepts.
+## Purpose of Repository:
 
-The user can currently learn:
+This repository was created for my own reference but also for the Houston Robotics Group. I will continue to update this repository from my own notes and learning but also any feedback.
 
-## Arduino
-1. How to set up an Arduino board - downloading the Arduino IDE, creating sketches, connecting an Arduino board to a computer
-2. The basics of programming in the Arduino IDE - basic data types, functions, and parts of the Arduino program/sketch
-3. Create a first project - 'Blink'
+## What you'll find:
+1. Process for creating projects - from idea to implementation
+2. Design process for creating projects
+3. References for (1) important electronic concepts, (2) essential components, (3) additional components, (4) tools
+4. Programming basics for the Arduino programming language
