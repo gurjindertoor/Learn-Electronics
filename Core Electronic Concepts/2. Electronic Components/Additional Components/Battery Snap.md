@@ -1,5 +1,7 @@
 # Battery Snap
 
+![battery snap](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/64440d7a-c564-4706-ba3d-470de8abc7ff)
+
 ## What is it?
 
 A battery snap is a connector that attaches to the terminals of a battery, typically a 9V battery.
