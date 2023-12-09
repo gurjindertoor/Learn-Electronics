@@ -1,5 +1,7 @@
 # Servo Motor
 
+![servo motor](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/bebc2ec5-3b94-4141-ab4f-1458a9239e38)
+
 ## What is it?
 
 A servo motor is a motor that can move to a specific position.
