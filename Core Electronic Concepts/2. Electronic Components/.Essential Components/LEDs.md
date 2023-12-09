@@ -1,5 +1,7 @@
 # LEDs (Light Emitting Diodes)
 
+![led](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/059bfedb-eb0f-4ae3-8581-037e0888bbd4)
+
 ## Function:
 
 LEDs are a type of diode that emit light when electricity passes through them.
