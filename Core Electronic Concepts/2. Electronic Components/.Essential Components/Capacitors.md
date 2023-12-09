@@ -1,5 +1,7 @@
 # Capacitors
 
+![capacitors](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/f8611ec5-acf5-4f2d-9009-7680d9f7be75)
+
 ## Function:
 
 Capacitors store and release electrical energy. They can also filter or smooth out electrical signals.
