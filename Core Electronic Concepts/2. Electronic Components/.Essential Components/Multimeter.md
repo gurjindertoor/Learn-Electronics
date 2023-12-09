@@ -1,5 +1,7 @@
 # Multimeter
 
+![multimeter](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/bb09fc2c-6b7a-47ca-a91f-92221c6689ce)
+
 ## What is it?
 
 A multimeter is a versatile tool used in electronics and electrical work to measure multiple electrical properties such as voltage, current, resistance, and often other parameters like capacitance and frequency.
