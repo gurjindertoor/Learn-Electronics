@@ -1,5 +1,7 @@
 # Potentiometer
 
+![potentiometer](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/5c4453dd-4972-4541-8c06-70c045ba8a62)
+
 ## What is it?
 
 A potentiometer is a type of knob that you can turn to adjust the level of electrical current.
