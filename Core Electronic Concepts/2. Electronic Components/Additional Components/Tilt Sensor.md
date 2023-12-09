@@ -1,5 +1,7 @@
 # Tilt Sensor
 
+![tilt sensor](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/b04192ce-2d02-4a7a-9264-c416302e9399)
+
 ## What is it?
 
 A tilt sensor detects orientation or inclination.
