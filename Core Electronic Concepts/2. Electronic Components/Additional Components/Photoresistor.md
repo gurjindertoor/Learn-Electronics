@@ -1,5 +1,7 @@
 # Photoresistor
 
+![photoresistor](https://github.com/gurjindertoor/Learn-Electronics/assets/78512847/f9d4792c-79d4-4760-a71c-b148c9ab6231)
+
 ## What is it?
 
 A photoresistor changes its resistance based on how much light it gets.
